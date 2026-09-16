@@ -1,24 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1, Special Event 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c759dbe41658ffa70178916dac16af09:20d289ab10af288ff4219c9d0c7a9698
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/ydys5ymnp5/out/v1/be54c704225e4e6292092fc69e61ecb1/cenc.mpd
-
 #EXTINF:-1, Willow Stream 1
 #EXTATTRFROMURL:https://tv.razor.pp.ua/?id=w1
-https://tv.razor.pp.ua
+https://ipoutlook.razor.pp.ua
 
 #EXTINF:-1, Willow Stream 2
 #EXTATTRFROMURL:https://tv.razor.pp.ua/?id=w2
-https://tv.razor.pp.ua
+https://ipoutlook.razor.pp.ua
 
 #EXTINF:-1, Willow Stream 3
 #EXTATTRFROMURL:https://tv.razor.pp.ua/?id=w3
-https://tv.razor.pp.ua
+https://ipoutlook.razor.pp.ua
 
 #EXTINF:-1, Willow Sports
 #EXTATTRFROMURL:https://tv.razor.pp.ua/?id=wsp
-https://tv.razor.pp.ua
+https://ipoutlook.razor.pp.ua
