@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1, Ten Sports 1 HD
+#EXTATTRFROMURL:https://tv.razor.pp.ua/?id=w1
+https://ipoutlook.razor.pp.ua
+
+#EXTINF:-1, Ten Cricket HD
+#EXTATTRFROMURL:https://tv.razor.pp.ua/?id=w2
+https://ipoutlook.razor.pp.ua
+
+#EXTINF:-1, Willow Stream 3
+#EXTATTRFROMURL:https://tv.razor.pp.ua/?id=w3
+https://ipoutlook.razor.pp.ua
+
+#EXTINF:-1, Willow Sports
+#EXTATTRFROMURL:https://tv.razor.pp.ua/?id=wsp
+https://ipoutlook.razor.pp.ua
