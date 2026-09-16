@@ -1,7 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1, Ten Sports 1 HD
-https://tv.razor.pp.ua/?id=t1hd
+#EXTATTRFROMURL:https://tv.razor.pp.ua/?id=t1hd
+https://ipoutlook.razor.pp.ua
 
 #EXTINF:-1, Ten Cricket HD
-https://tv.razor.pp.ua/?id=tchd
+#EXTATTRFROMURL:https://tv.razor.pp.ua/?id=tchd
+https://ipoutlook.razor.pp.ua
