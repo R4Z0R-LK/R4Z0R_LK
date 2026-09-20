@@ -16,7 +16,8 @@ https://ipoutlook.razor.pp.ua
 #EXTATTRFROMURL:https://tv.razor.pp.ua/?id=wsp
 https://ipoutlook.razor.pp.ua
 
-#EXTINF:-1 tvg-id="64" tvg-name="STV 1 HD" tvg-logo="https://i2meetzoom.razor.pp.ua/SST1.png" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch211.mpd?begin=${start}&end=${end}" group-title="Sports",STV 1 HD
+#EXTINF:-1 tvg-id="1" tvg-name="stv_1" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/f13c78708f39ca1636bbaf3a4ef2621f.svg" catchup="shift" group-title="Public",STV 1 HD
+#EXTVLCOPT:network-caching=4000
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
