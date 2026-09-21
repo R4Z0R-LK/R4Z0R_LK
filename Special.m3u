@@ -23,4 +23,4 @@ https://ipoutlook.razor.pp.ua
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cert.webtv.sk/drm/widevine|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36|Referer=https://webtv.sk/|Origin=https://webtv.sk
 #KODIPROP:mimetype=application/dash+xml
-https://dash2.antik.sk/stream/nvidia_jednotka/playlist_cbcs.mpd
+https://dash2.antik.sk/stream/hisi_tlc/playlist_cbcs.mpd
