@@ -1,21 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, Willow Stream 1
-#EXTATTRFROMURL:https://tv.razor.pp.ua/?id=w1
-https://ipoutlook.razor.pp.ua
-
-#EXTINF:-1, Willow Stream 2
-#EXTATTRFROMURL:https://tv.razor.pp.ua/?id=w2
-https://ipoutlook.razor.pp.ua
-
-#EXTINF:-1, Willow Stream 3
-#EXTATTRFROMURL:https://tv.razor.pp.ua/?id=w3
-https://ipoutlook.razor.pp.ua
-
-#EXTINF:-1, Willow Sports
-#EXTATTRFROMURL:https://tv.razor.pp.ua/?id=wsp
-https://ipoutlook.razor.pp.ua
-
 #EXTINF:-1 tvg-id="1" tvg-name="stv_1" tvg-logo="https://static.maxim.iptv.antik.sk/app/assets/upload/channels/f13c78708f39ca1636bbaf3a4ef2621f.svg" catchup="shift" group-title="Public",STV 1 HD
 #EXTVLCOPT:network-caching=4000
 #KODIPROP:inputstream=inputstream.adaptive
